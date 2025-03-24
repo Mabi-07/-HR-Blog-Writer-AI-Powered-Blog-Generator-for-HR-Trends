@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Run HR Blog Writer",
+        "type": "python",
+        "request": "launch",
+        "module": "hr_blog_writer.main",
+        "console": "integratedTerminal"
+      }
+    ]
+  }
+  
